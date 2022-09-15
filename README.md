@@ -1,1 +1,2 @@
-"# aspdotnet - 1921050499 - Bui Trung Quyet" 
+# 1921050499 - Bui Trung Quyet
+## ASP DOTNET CORE MVC
