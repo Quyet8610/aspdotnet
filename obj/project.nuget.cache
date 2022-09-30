@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+hYtYKdWNOC84VAbBL//XUMQQg9k36F5lq9EN2SwaGBSePCSBFEhxQ3SPX1r+jXVdWyiwaIDF1qvbZUhSqU4EQ==",
+  "dgSpecHash": "bDDFsbgNzfyTS+2eAGdnGokZ/yZ2UMAaKCSvK7cFJd22CmH28yKnkJn0zZHjlEfUWkJlVeU+iWGQuab9FGi53g==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\ASP.net\\quyetdaubuoi\\aspdotnet\\aspdotnet.csproj",
+  "projectFilePath": "/Users/trungquyet/Documents/aspdotnet/aspdotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

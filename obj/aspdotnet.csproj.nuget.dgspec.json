@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\ASP.net\\quyetdaubuoi\\aspdotnet\\aspdotnet.csproj": {}
+    "/Users/trungquyet/Documents/aspdotnet/aspdotnet.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\ASP.net\\quyetdaubuoi\\aspdotnet\\aspdotnet.csproj": {
+    "/Users/trungquyet/Documents/aspdotnet/aspdotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\ASP.net\\quyetdaubuoi\\aspdotnet\\aspdotnet.csproj",
+        "projectUniqueName": "/Users/trungquyet/Documents/aspdotnet/aspdotnet.csproj",
         "projectName": "aspdotnet",
-        "projectPath": "D:\\Learn\\ASP.net\\quyetdaubuoi\\aspdotnet\\aspdotnet.csproj",
-        "packagesPath": "C:\\Users\\ntsth\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\ASP.net\\quyetdaubuoi\\aspdotnet\\obj\\",
+        "projectPath": "/Users/trungquyet/Documents/aspdotnet/aspdotnet.csproj",
+        "packagesPath": "/Users/trungquyet/.nuget/packages/",
+        "outputPath": "/Users/trungquyet/Documents/aspdotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ntsth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/trungquyet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
