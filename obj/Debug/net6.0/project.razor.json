@@ -16348,6 +16348,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/trungquyet/Documents/aspdotnet/Views/String/Index.cshtml",
+      "TargetPath": "Views\\String\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/trungquyet/Documents/aspdotnet/Views/Employee/Index.cshtml",
       "TargetPath": "Views\\Employee\\Index.cshtml",
       "FileKind": "mvc"
