@@ -2,10 +2,10 @@ namespace aspdotnet.Models
 {
     public class Employee
     {
-        public string name;
+        public string name {get; set;}
 
-        public string age;
+        public int age {get; set;}
 
-        public string address;
+        public string address {get; set;}
     }
 }

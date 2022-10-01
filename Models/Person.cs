@@ -2,11 +2,11 @@ namespace aspdotnet.Moldel
 {
     public class Person
     {
-        public string name;
+        public string name { get; set; }
 
-        public string age;
+        public string age { get; set; }
 
-        public string address;
+        public string address { get; set; }
     }
 
 }
